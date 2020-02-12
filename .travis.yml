@@ -1,6 +1,6 @@
 language: java
-dist: trusty
-before_install:
-  - chmod +x build.sh   
+dist: trusty  
 jdk:
   - oraclejdk8
+before_install:
+ - chmod +x gradlew  
