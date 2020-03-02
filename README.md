@@ -14,8 +14,8 @@ A API RESTful de Ponto Inteligente contém as seguintes características:
 
 
 #comandos para criar database no oracle
-*create user ponto_inteligente identified by 123456 default tablespace users quota 20M on Users;
-*grant create table, create view, create procedure, create trigger, connect, create session, create sequence to ponto_inteligente;
+* create user ponto_inteligente identified by 123456 default tablespace users quota 20M on Users;
+* grant create table, create view, create procedure, create trigger, connect, create session, create sequence to ponto_inteligente;
 
 #comando para criar database no mysql
-*create database if not exists ponto_inteligente
+* create database if not exists ponto_inteligente
